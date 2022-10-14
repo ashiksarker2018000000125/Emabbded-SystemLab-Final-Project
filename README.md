@@ -12,7 +12,7 @@
 
 
 ## Code of the project
-
+```
 #include <Servo.h>. 
 const int trigPin = 10;
 const int echoPin = 11;
@@ -60,4 +60,4 @@ int calculateDistance(){
   distance= duration*0.034/2;
   return distance;
 }
-
+```
