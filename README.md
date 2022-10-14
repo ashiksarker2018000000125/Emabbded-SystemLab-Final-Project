@@ -1,4 +1,4 @@
-# Arduino RADAR Model for Distance mesurement &amp; Angle Finding using Ultrasonic Sensor
+# Arduino Radar Model for Distance and Angle Finding using Ultrasonic Sensor
 
 ## Components used / Material
 * Arduino uno
