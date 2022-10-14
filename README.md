@@ -1,4 +1,4 @@
-# Arduino Radar Model for Distance and Angle Finding using Ultrasonic Sensor
+# Arduino Radar Model for Distance and Angle Finding using Ultrasonic Sensor and Servo Motor
 
 ## Components used / Material
 * Arduino uno
@@ -6,7 +6,7 @@
 * Servo Motor
 
 
-## Circuit Diagram of Arduino RADAR Model
+## Circuit Diagram of Arduino Radar Model
 
 ![image](https://github.com/ashiksarker2018000000125/Emabbded-SystemLab-Final-Project/blob/main/radar_circuit_diagram.png)
 
